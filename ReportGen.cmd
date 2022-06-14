@@ -14,5 +14,3 @@ systeminfo
 tasklist
 
 )
-
-@pause
